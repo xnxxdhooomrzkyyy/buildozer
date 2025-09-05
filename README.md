@@ -1,4 +1,4 @@
-===BUILDOZER FOR KALI LINUX 2025.2===
+===BUILDOZER===
 
 Step Penginstalan :
 Jalankan install.sh di terminal dengan perintah :
